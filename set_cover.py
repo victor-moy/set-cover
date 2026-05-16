@@ -1,6 +1,6 @@
 """
 Set Cover - Problema da Cobertura de Conjuntos
-Disciplina: Algoritmos e Complexidade Computacional
+Disciplina: Algoritmos Avançados
 
 Duas abordagens implementadas:
   1. Força bruta (solução exata, viável apenas para entradas pequenas)
